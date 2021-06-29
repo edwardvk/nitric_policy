@@ -92,9 +92,7 @@ We use honeypot techniques and subtle data pollution markers to try to assess if
 
 We use honeypot techniques and subtle data pollution techniques to try to assess if, when or how a breach has taken place. Should a breach be found to have taken place, notification will be provided as soon as reasonably possible after the discovery of the compromise is made, taking into account the legitimate needs of law enforcement or any measures reasonably necessary to determine the scope of the compromise and to restore the integrity of the Responsible Party's information system.
 
-
 Document Authored by: Edward van Kuik B.Sc. (Computer Science) UCT
->>>>>>> 2f9d4126fbed2f94f5b0fb92a21006a1bb85a830
 
 #### FAQs
 
