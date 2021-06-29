@@ -81,16 +81,17 @@ We keep all records while the user is still a customer of LawPracticeZA and for 
 
 We use honeypot techniques and subtle data pollution techniques to try to assess if, when or how a breach has taken place. Should a breach be found to have taken place, notification will be provided as soon as reasonably possible after the discovery of the compromise is made, taking into account the legitimate needs of law enforcement or any measures reasonably necessary to determine the scope of the compromise and to restore the integrity of the Responsible Party's information system.
 
-Document Authored by: Edward van Kuik B.Sc. (Computer Science) UCT
+Document Authored by: Edward van Kuik B.Sc. (Computer Science) UCTf
 
 * Updated: 2018-10-10 
 * Updated: 2020-11-11
 * Updated: 2021-06-29
 
 
+<!-- 
 #### FAQs
 
-<!-- 1. Please confirm what security measures you have in place to protect our clients and their
+1. Please confirm what security measures you have in place to protect our clients and their
 personal information in terms of the service you provide to us.
 2. Please advise how our clients information is been protected.
 3. What reasonable measures do you have in place to identify all reasonably foreseeable
