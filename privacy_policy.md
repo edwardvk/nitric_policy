@@ -83,9 +83,9 @@ We use honeypot techniques and subtle data pollution techniques to try to assess
 
 Document Authored by: Edward van Kuik B.Sc. (Computer Science) UCT
 
-Updated: 2018-10-10 
-Updated: 2020-11-11
-Updated: 2021-06-29
+* Updated: 2018-10-10 
+* Updated: 2020-11-11
+* Updated: 2021-06-29
 
 
 #### FAQs
