@@ -16,7 +16,7 @@ We collect certain information in connection with your use of LawPracticeZA.
 
 Upon subscribing to our services, we collect Business Information which would include your firm's contact details necessary for invoicing your clients, and user details including users email addresses.
 
-When using LawPracticeZA, we store information relating to your clients and matters, your billing and the firm's financial information, captured by the firm's personnel, on our servers, which are housed in a secure data centre.For details on Security and Reliability of Record Keeping, access the document here.
+When using LawPracticeZA, we store information relating to your clients and matters, your billing and the firm's financial information, captured by the firm's personnel, on our servers, which are housed in a secure data centre. 
 
 ## Cookies
 
@@ -64,7 +64,9 @@ Audit logs of access to the servers are logged (both locally and remotely) and w
 #### Weaknesses
 
 By far the greatest know security risk is with the users themselves. Obtaining a username and password from an employee at the users workspace would allow someone access to the data.
-Operating System Security Updates & Firewall
+
+#### Operating System Security Updates & Firewall
+
 
 All our servers run Ubuntu Linux-based OS and security updates are applied regularly. Only a minimal set of secured ports are open to the public. Port 80 / HTTP is used only to issue redirect responses to Port 443 / HTTPS.
 
@@ -74,14 +76,25 @@ We keep all records while the user is still a customer of LawPracticeZA and for 
 
 Document Authored by: Edward van Kuik B.Sc. (Computer Science) UCT
 
+Updated: 2018-10-10 
+Updated: 2020-11-11
+Updated: 2021-06-29
+
 #### Breaches
 
-We use honeypot techniques and subtle data pollution techniques to try to assess if, when or how a breach has taken place. Upon assessment of the breach, it is decided who should be informed about it ?
+We use honeypot techniques and subtle data pollution markers to try to assess if, when or how a breach has taken place. Upon assessment of the breach, it will decided who should be informed about it according to the nature of the breach in terms of protecting the information for our client.
+
+#### Regular updates to security
+
+The senior development convene monthly to reconsider and re-assess the current security measures.
 
 #### FAQ
 
 1. Please confirm what security measures you have in place to protect our clients and their
 personal information in terms of the service you provide to us.
+
+
+
 2. Please advise how our clients information is been protected.
 3. What reasonable measures do you have in place to identify all reasonably foreseeable
 internal and external risks to personal information in your possession or under your
