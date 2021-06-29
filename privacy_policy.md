@@ -1,7 +1,7 @@
 
-# LawPracticeZA Privacy Policy
+# LawPracticeZA Data Protection and Privacy Policies
 
-LawPracticecZA is committed to the security and privacy of our customer's data. This Privacy Policy explains our commitment to safeguarding our customers’ data and serves as our agreement with our customers about our data handling practices. This policy lists the types of data we collect, explains how we use and protect that data, and discloses our key procedures surrounding privacy.
+We are committed to the security and privacy of our customers' data. This Privacy Policy explains our commitment to safeguarding our customers’ data and serves as our agreement with our customers about our data handling practices. This policy lists the types of data we collect, explains how we use and protect that data, and discloses our key procedures surrounding privacy.
 
 This privacy policy is a binding agreement between you and LawPracticeZA. By accessing LawPracticeZA, you signify that you agree with the terms of this Privacy Policy. We may change this Privacy Policy from time to time by posting a new version here, and the new version will become effective immediately.
 
@@ -18,6 +18,10 @@ Upon subscribing to our services, we collect Business Information which would in
 
 When using LawPracticeZA, we store information relating to your clients and matters, your billing and the firm's financial information, captured by the firm's personnel, on our servers, which are housed in a secure data centre. 
 
+## Consent
+
+All users of LawPracticeZA will be asked to consent to our data information policies as they change from time to time. We expect it to change often over the next 
+
 ## Cookies
 
 We use Cookies to provide access to LawPracticeZA. Cookies are not designed to retrieve personal or business data from your hard drive, your email, or any other personal information.
@@ -29,25 +33,23 @@ In the event that LawPracticecZA is bought or sold, Business Information will li
 
 We may change this Privacy Policy at any time by posting the then current policy to the Sites. Your use of the Sites constitutes acceptance of the provisions of this Privacy Policy and your continued LawPracticecZA after such changes are posted constitutes acceptance of each revised Privacy Policy.
 
-## Security
-
-### Security and Reliability of Record Keeping
+## Security and Reliability
 
 #### Data Centre
 
 All records are kept on our self-managed servers at the underground Xneelo Data Centre in Cape Town and Johannesburg who enforce very strict security measures with respect to geotechnical audits, surveillance, access control, fire prevention, power outages, etc. More information is here: https://xneelo.co.za/legal/security/
-Security
 
-All access to the server is possible only via HTTPS and SSH both of which are encrypted connections using industry standards. Only our senior developers would have any access to these production servers. All of whom have over 20 years experience in security on Linux-based servers. All customer records are kept in their distinct databases and thus mitigates against the risk of cross-database data leaks due to potential bugs in the software.
-Redundancy & Backups
+#### Access
 
-#### Backup and Restore
+All access to the servers are possible only via HTTPS and SSH both of which are encrypted connections using industry standards. Only our senior developers would have any access to these production servers. All of whom have over 20 years experience in security on Linux-based servers. All customer records are kept in their distinct databases and thus mitigates against the risk of cross-database data leaks due to potential bugs in the software.
+
+#### Redundancy & Backups
 
 We replicate all database traffic to a backup server, with an additional 7-day rotational backup of the database. Uploaded files are also backed up on a 7-day rotational basis. Access to the backup servers are the same as the production servers.
 
 In addition, a complete server back up is performed to external storage in ecrypted format. Access to the keys to decrypt the information are the same as the production servers.
 
-#### Employee and Sub-contractor Confidentiality
+#### Employee and Sub-contractor Confidentiality & Consent
 
 All employees who have completed an addendum to ...
 
@@ -61,12 +63,14 @@ Processes are underway to receive the information from our suppliers.
 
 Audit logs of access to the servers are logged (both locally and remotely) and we have fail2ban software installed to help against brute-force password guessing attacks. We have various testing systems that run periodically to test the stability of the servers as well as any database anomalies. Third-Party Data Sharing Data is not shared with any third party without explicit opt-in from the user, and then only the minimum data is shared for an integration to function. For example, the Gmail calendar integration shares matter names, diary dates and diary entry descriptions, and does not divulge anything to Google that isn’t necessary for each diary appointment. The integration with E4 gives their system the same access as a bookkeeper user as it is is necessary for this integration to be able to query accounting transactions and post fees. In all cases third party access is granted explicitly to each firm database, there is no third party API key with access to multiple databases.
 
-#### Weaknesses
+#### Known weaknesses and regular assessments and updates to security
+
+The senior development convene monthly to reconsider and re-assess the current security measures.
+
 
 By far the greatest know security risk is with the users themselves. Obtaining a username and password from an employee at the users workspace would allow someone access to the data.
 
 #### Operating System Security Updates & Firewall
-
 
 All our servers run Ubuntu Linux-based OS and security updates are applied regularly. Only a minimal set of secured ports are open to the public. Port 80 / HTTP is used only to issue redirect responses to Port 443 / HTTPS.
 
@@ -84,17 +88,10 @@ Updated: 2021-06-29
 
 We use honeypot techniques and subtle data pollution markers to try to assess if, when or how a breach has taken place. Upon assessment of the breach, it will decided who should be informed about it according to the nature of the breach in terms of protecting the information for our client.
 
-#### Regular updates to security
-
-The senior development convene monthly to reconsider and re-assess the current security measures.
-
-#### FAQ
+#### FAQs
 
 1. Please confirm what security measures you have in place to protect our clients and their
 personal information in terms of the service you provide to us.
-
-
-
 2. Please advise how our clients information is been protected.
 3. What reasonable measures do you have in place to identify all reasonably foreseeable
 internal and external risks to personal information in your possession or under your
