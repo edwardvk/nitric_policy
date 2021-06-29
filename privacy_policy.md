@@ -77,22 +77,16 @@ All our servers run Ubuntu Linux-based OS and security updates are applied regul
 
 We keep all records while the user is still a customer of LawPracticeZA and for 6 months after termination of their account. All records can be deleted upon request.
 
-<<<<<<< HEAD
+#### Breaches
+
+We use honeypot techniques and subtle data pollution techniques to try to assess if, when or how a breach has taken place. Should a breach be found to have taken place, notification will be provided as soon as reasonably possible after the discovery of the compromise is made, taking into account the legitimate needs of law enforcement or any measures reasonably necessary to determine the scope of the compromise and to restore the integrity of the Responsible Party's information system.
+
 Document Authored by: Edward van Kuik B.Sc. (Computer Science) UCT
 
 Updated: 2018-10-10 
 Updated: 2020-11-11
 Updated: 2021-06-29
 
-#### Breaches
-
-We use honeypot techniques and subtle data pollution markers to try to assess if, when or how a breach has taken place. Upon assessment of the breach, it will decided who should be informed about it according to the nature of the breach in terms of protecting the information for our client.
-=======
-#### Breaches
-
-We use honeypot techniques and subtle data pollution techniques to try to assess if, when or how a breach has taken place. Should a breach be found to have taken place, notification will be provided as soon as reasonably possible after the discovery of the compromise is made, taking into account the legitimate needs of law enforcement or any measures reasonably necessary to determine the scope of the compromise and to restore the integrity of the Responsible Party's information system.
-
-Document Authored by: Edward van Kuik B.Sc. (Computer Science) UCT
 
 #### FAQs
 
