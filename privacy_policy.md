@@ -28,3 +28,7 @@ Business Transfers
 In the event that LawPracticecZA is bought or sold, Business Information will likely be included among the transferred business assets, but such information remains subject to this Privacy Policy or a Privacy Policy substantially similar to this privacy Policy.
 
 We may change this Privacy Policy at any time by posting the then current policy to the Sites. Your use of the Sites constitutes acceptance of the provisions of this Privacy Policy and your continued LawPracticecZA after such changes are posted constitutes acceptance of each revised Privacy Policy.
+
+## Security
+
+See https://lawpracticeza.com/docs/security.html
