@@ -64,10 +64,10 @@ Audit logs of access to the servers are logged (both locally and remotely) and w
 
 #### Known weaknesses and regular assessments and updates to security
 
-The senior development convene monthly to reconsider and re-assess the current security measures.
+The senior development team convenes monthly to reconsider and re-assess the current security measures.
 
 
-By far the greatest know security risk is with the users themselves. Obtaining a username and password from an employee at the users workspace would allow someone access to the data.
+By far the greatest know security risk is with the users themselves. Obtaining a username and password from an employee at the user's workspace would allow someone access to the data.
 
 #### Operating System Security Updates & Firewall
 
@@ -81,16 +81,14 @@ We keep all records while the user is still a customer of LawPracticeZA and for 
 
 We use honeypot techniques and subtle data pollution techniques to try to assess if, when or how a breach has taken place. Should a breach be found to have taken place, notification will be provided as soon as reasonably possible after the discovery of the compromise is made, taking into account the legitimate needs of law enforcement or any measures reasonably necessary to determine the scope of the compromise and to restore the integrity of the Responsible Party's information system.
 
-Document Authored by: Edward van Kuik B.Sc. (Computer Science) UCTf
+Document Authored by: Edward van Kuik B.Sc. (Computer Science) UCT
 
 * Updated: 2018-10-10 
 * Updated: 2020-11-11
 * Updated: 2021-06-29
 
 
-<!-- 
-#### FAQs
-
+<!-- #### FAQs
 1. Please confirm what security measures you have in place to protect our clients and their
 personal information in terms of the service you provide to us.
 2. Please advise how our clients information is been protected.
@@ -100,5 +98,4 @@ control
 4. How would you establish and maintain the security measures against any risk and how
 often is this security measures updated.
 5. What do you have in place in the event that there is breach.
- -->
-
+ --> 
