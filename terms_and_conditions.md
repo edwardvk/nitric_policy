@@ -43,13 +43,15 @@ All access to and use of the Service via mechanical, programmatic, robotic, scri
 Authorized Users and Subscribers shall be responsible for protecting the security of Usernames and passwords, or any other codes associated to the Service known to them, and for the accuracy and adequacy of personal information provided to the Service.
 Subscribers will implement policies and procedures to prevent unauthorized use of Usernames, and will promptly notify LawPracticeZA, upon suspicion that a Username has been lost, stolen, compromised, or misused.
 
-## Payment, Refunds and Subscription Changes
+## Payment, Refunds, Non-Payment, and Subscription Changes
 
-Subscribers with paying subscriptions will receive an account on the 25th of each month for the month's subscription, depending on the number of users assigned at the end of the month, via email.
+Subscribers with paying subscriptions will receive an account on the 25th of each month for the month's subscription, depending on the number of users assigned at the end of the month, via email. They will also receive monthly statements showing invoices, receipts and credit notes.
 No refunds or credits will be issued for partial months of service, upgrade/downgrade refunds, or refunds for months unused with an active subscription.
 There are no charges for cancelling a subscription, and paying subscriptions cancelled prior to the end of the current month will not be charged again in the following month or thereafter.
 The amount charged on the next billing cycle will be automatically updated to reflect any changes to the subscription, including upgrades or downgrades.
 All prices are subject to an annual increase on the anniversary of the first use of LawPracticeZA.  The increase may not exceed the official Consumer Price Index (CPI) ruling at that time. Notice of the increase will be provided together with the invoice for the month where the increase becomes effective.
+Should the subscription go unpaid for more than 1 month we reserve the right to publish notification messages within the LawPracticeZA application to all registered and authenticated users notifying them of possible suspension due to non-payment and we reserve the right to suspend the service with or without these warnings in the case of non-payment.
+
 
 ## Cancellation and Termination
 
